@@ -13,3 +13,7 @@ employees:
   email: ryan.howard@noaa.gov
   supervisor:
   - Michael Scott
+- name: Aidan Winney
+  email: aidan.winney@noaa.gov
+  supervisor:
+  - Jianping Huang
